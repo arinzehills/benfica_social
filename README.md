@@ -25,6 +25,7 @@ This is a Flutter mobile application for the BEN MORE E-Social task platform. Th
    git clone https://github.com/arinzehills/benfica-social.git
    cd benfica-flutter
    flutter pub get
+   flutter run 
 
 2. Running Test:
 
