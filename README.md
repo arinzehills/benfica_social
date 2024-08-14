@@ -1,16 +1,24 @@
-# benfica_social
+# BEN MORE E-Social Media App (Flutter)
 
-A new Flutter project.
+This is a Flutter mobile application for the BEN MORE E-Social task platform. This app provides a simple social platform where users can create and manage posts. Users can sign up, create posts with titles, descriptions, images, and statuses (In Progress, Completed, or Overdue). They can also comment on posts, like them, and assign posts to other users. Additionally, users can follow each other and view posts by the people they follow. The app offers a seamless and interactive user experience on mobile devices.
 
-## Getting Started
+## Technologies Used
 
-This project is a starting point for a Flutter application.
+- **Flutter**: For building the cross-platform mobile application.
+- **Dart**: As the programming language for Flutter.
+- **Provider (or other state management)**: For managing the state of the application.
+- **HTTP**: For handling API requests to interact with the Node.js backend.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK (version 3.0 or higher)
+- Android Studio or Xcode (for iOS development)
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/arinzehills/benfica-social.git
+   cd benfica-flutter
+   flutter pub get
